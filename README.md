@@ -30,6 +30,7 @@
 - GET: `/` - route to hit
 - Feature Two: Deploy to Prod
 - GET: `/bad` - route to hit
+- GET: `/person` - route to hit, with name query
 
 #### Tests
 
@@ -39,6 +40,7 @@
   - handles root path
   - handles invalid requests
   - handles errors
+  - logs as expected
 
 #### UML
 
