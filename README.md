@@ -10,9 +10,9 @@
 
 ### Links and Resources
 
-- [ci/cd](https://github.com/sethppierce/server-deployment-practice/actions) (GitHub Actions)
-- [prod deployment](https://server-deployment-practice-tek3.onrender.com/) (when applicable)
-- [dev deployment](https://server-deployment-practice-dev.onrender.com/) (when applicable)
+- [ci/cd](https://github.com/sethppierce/basic-express-server/actions) (GitHub Actions)
+- [prod deployment](https://basic-express-server-ha46.onrender.com) (when applicable)
+- [dev deployment](https://basic-express-server-dev.onrender.com) (when applicable)
 
 ### Setup
 
